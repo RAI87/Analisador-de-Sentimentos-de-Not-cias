@@ -1,8 +1,8 @@
-# 📊 Analisador de Sentimentos de Notícias
+# Analisador de Sentimentos de Notícias
 
 Um aplicativo Python que coleta e analisa o sentimento de notícias do mercado.
 
-## 🚀 Como usar
+## Como usar
 
 1. Instale as dependências
 pip install -r requirements.txt
